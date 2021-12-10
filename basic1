@@ -1,0 +1,17 @@
+package javaapplication24;
+
+/**
+ *Sara lyma - 10/12/2021
+ * meus codigos em Java 
+ */
+public class JavaApplication24 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Bem vindo ao sistema Java ");
+    }
+  
+  
+  
